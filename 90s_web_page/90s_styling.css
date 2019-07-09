@@ -1,0 +1,32 @@
+.menu {
+    font-size: 50;
+    color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.types {
+    font-size: 30;
+    color: yellowgreen;
+
+}
+
+#page_heading {
+    color: midnightblue;
+    background-color: #B33917;
+    font-family: fantasy;
+    font-size: 200;
+    text-align: center;
+    
+}
+
+div {
+    font-size: 35;
+    color: #CD8FFE;
+
+}
+
+body {
+    background-image: url("90s_background.jpg");
+}
