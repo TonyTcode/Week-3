@@ -1,0 +1,75 @@
+.menu{
+    background-color: blue;
+    position: relative;
+    word-spacing: 5%;
+    color: white;
+    height: 60px;
+}
+
+
+
+
+#high{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21pt;
+    margin-top: 10px;
+
+}
+
+#java{
+    background-color: lightgrey;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#c{
+    background-color: lightgrey;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#swift{
+    background-color: lightgrey;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#data{
+    background-color: lightgrey;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#python{
+    background-color: lightgrey;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#vb{
+    background-color: lightgrey;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
